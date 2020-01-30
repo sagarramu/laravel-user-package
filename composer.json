@@ -1,0 +1,19 @@
+{
+    "name": "sagar/usermaster",
+    "description": "laravel user package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sagarramu",
+            "email": "sagarramoliya93@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sagar\\Usermaster\\": "src/"
+        }
+    }
+}
